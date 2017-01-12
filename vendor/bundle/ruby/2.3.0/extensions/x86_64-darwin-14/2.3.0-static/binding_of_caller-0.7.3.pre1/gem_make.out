@@ -1,5 +1,5 @@
 current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/binding_of_caller-0.7.3.pre1/ext/binding_of_caller
-/Users/shingen/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20161204-36015-d30rwt.rb extconf.rb
+/Users/shingen/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20170113-1827-19f95pn.rb extconf.rb
 
 current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/binding_of_caller-0.7.3.pre1/ext/binding_of_caller
 make "DESTDIR=" clean

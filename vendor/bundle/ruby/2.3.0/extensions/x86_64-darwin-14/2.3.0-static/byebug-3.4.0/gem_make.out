@@ -1,5 +1,5 @@
 current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/byebug-3.4.0/ext/byebug
-/Users/shingen/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20161204-36015-reh78g.rb extconf.rb
+/Users/shingen/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20170113-1827-tmb1u7.rb extconf.rb
 creating Makefile
 
 current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/byebug-3.4.0/ext/byebug
@@ -16,4 +16,4 @@ linking shared-object byebug/byebug.bundle
 
 current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/byebug-3.4.0/ext/byebug
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20161204-36015-1ytm3fo/byebug
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20170113-1827-o896fm/byebug

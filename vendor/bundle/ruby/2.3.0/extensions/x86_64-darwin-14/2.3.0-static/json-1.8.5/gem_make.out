@@ -1,0 +1,13 @@
+current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/json-1.8.5/ext/json
+/Users/shingen/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20170113-1827-1g8hhnt.rb extconf.rb
+creating Makefile
+
+current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/json-1.8.5/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/json-1.8.5/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/json-1.8.5/ext/json
+make "DESTDIR=" install

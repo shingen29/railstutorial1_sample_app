@@ -1,5 +1,5 @@
 current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
-/Users/shingen/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20161204-36015-1nprf5.rb extconf.rb
+/Users/shingen/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20170113-1827-1jk21p8.rb extconf.rb
 creating Makefile
 
 current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
@@ -12,4 +12,4 @@ linking shared-object debug_inspector.bundle
 
 current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20161204-36015-cowzz8
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20170113-1827-izzksg

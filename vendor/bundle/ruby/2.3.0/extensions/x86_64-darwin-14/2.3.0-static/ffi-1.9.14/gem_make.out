@@ -1,5 +1,5 @@
 current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.14/ext/ffi_c
-/Users/shingen/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20161204-36015-hpy8zs.rb extconf.rb
+/Users/shingen/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20170113-1827-g9za8g.rb extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... yes
 checking for ffi_call() in -lffi... yes
@@ -61,4 +61,4 @@ linking shared-object ffi_c.bundle
 
 current directory: /Users/shingen/ruby_projects/rails-tutorial/sample_app/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.14/ext/ffi_c
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20161204-36015-1uy6r1k
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20170113-1827-lac1ea
